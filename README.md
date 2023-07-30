@@ -9,7 +9,7 @@ I have been coding since mid-2020 and underwent 2 internships with Sanlam Invest
 * 🌍  I'm based in Port Elizabeth, South Africa.
 * ✉️  You can contact me at [lraseemela@gmail.com](mailto:lraseemela@gmail.com)
 * 🧠  I'm learning Angular
-* 🤝  I'm open to collaborating on Show and Tell
+* 🤝  I'm open to collaborating on any software development app
 * ⚡  I am also a DJ and a hacker at night.
 
 <a href="https://www.twitter.com/LionelDynasty" target="_blank" rel="noreferrer"><img
@@ -34,6 +34,7 @@ src="https://img.shields.io/github/followers/HackerWithDrip?logo=github&style=fo
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 </p>
 
 
