@@ -8,7 +8,7 @@ I have been coding since mid-2020 and underwent 2 internships with Sanlam Invest
 
 * 🌍  I'm based in Port Elizabeth, South Africa.
 * ✉️  You can contact me at [lraseemela@gmail.com](mailto:lraseemela@gmail.com)
-* 🧠  I'm learning Android development
+* 🧠  Currently I'm learning Android development @Nelson Mandela University and Java Full-Stack Software Development @Zaio.io
 * 🤝  I'm open to collaborating on any software development app
 * ⚡  I am also a DJ and a hacker at night.
 
