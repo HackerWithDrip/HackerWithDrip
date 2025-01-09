@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lionel Raseemela
 ========================================================================================================================================
 
-3rd Year BSc. Computer Science & Mathematics Student | Member of the Golden Key International Honour Society
------------------------------------------------------------------------------------------------------------
+BSc. Computer Science, Mathematics & Applied Mathematics Graduate | Member of the Golden Key International Honour Society | Aspiring software developer
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 I have been coding since mid-2020 and underwent 2 internships with Sanlam Investments remotely and Polymorph Systems on-site. I tutor mathematics, first year Engineering students and Second Year BSc Computer Science students at Nelson Mandela University. I also tutor programming first year Computer Science students. I also volunteer to teach new students to be more digitally literate so they can focus more on their academics other than trying to learn basic computing and Microsoft skills. Problem-solving and critical thinking are my strengths.
 
