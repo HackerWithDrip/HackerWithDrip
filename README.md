@@ -4,13 +4,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 BSc. Computer Science, Mathematics & Applied Mathematics Graduate | Member of the Golden Key International Honour Society | Aspiring software developer
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I have been coding since mid-2020 and underwent 2 internships with Sanlam Investments remotely and Polymorph Systems on-site. I tutor mathematics, first year Engineering students and Second Year BSc Computer Science students at Nelson Mandela University. I also tutor programming first year Computer Science students. I also volunteer to teach new students to be more digitally literate so they can focus more on their academics other than trying to learn basic computing and Microsoft skills. Problem-solving and critical thinking are my strengths.
+I have been coding since mid-2020 and underwent 2 internships with Sanlam Investments remotely and Polymorph Systems on-site. I am a BSc. Computer Science graduate from Nelson Mandela University, where I majored in Computer Science, Mathematics, and Applied Mathematics, earning 18 distinctions. My passion for technology drives me to explore and innovate in software development, data engineering, and cybersecurity.
 
-* 🌍  I'm based in Port Elizabeth, South Africa.
+With experience in full-stack development, AI, Web3, and IoT, I have worked with various technologies, including Java, C#, TypeScript, Flutter, and Angular. I am also well-versed in cloud computing (AWS), business intelligence, and agile methodologies. As an ethical hacker, I prioritize security in my solutions while ensuring efficiency and scalability.
+
+I thrive in collaborative environments, where my problem-solving skills, adaptability, and leadership abilities come into play. Being a member of the Golden Key International Honour Society reflects my dedication to continuous learning and academic excellence. Over the years, I have contributed as a mathematics tutor, IT trainer, and university mentor, helping others grow in their technical journeys.
+
+One of my most exciting projects was developing a full-stack project management dashboard for Polymorph Systems. My GitHub showcases various projects that highlight my technical expertise and creativity. I am always eager to take on new challenges and contribute to impactful solutions that drive technological advancement.
+
+
+* 🌍  I'm based in Northriding, Johannesburg, South Africa.
 * ✉️  You can contact me at [lraseemela@gmail.com](mailto:lraseemela@gmail.com)
-* 🧠  Currently I'm learning Android development @Nelson Mandela University and Java Full-Stack Software Development @Zaio.io
-* 🤝  I'm open to collaborating on any software development app
-* ⚡  I am also a DJ and a hacker at night.
+* 🧠  Currently  I'm working on a full-stack (Using flutter and API integration from https://newsapi.org/ ) news app, to keep users updated about what's happening worldwide.
+* 🤝  I'm open to collaborating on any software development application
+* ⚡  I am also a part-time DJ, but I will not rest if my app is not working.
 
 <a href="https://www.twitter.com/LionelDynasty" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/LionelDynasty?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
