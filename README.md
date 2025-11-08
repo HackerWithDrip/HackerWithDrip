@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lionel Raseemela
 ========================================================================================================================================
 
-BSc. Computer Science, Mathematics & Applied Mathematics Graduate | Member of the Golden Key International Honour Society | Aspiring software developer
+BSc. Computer Science, Mathematics & Applied Mathematics Graduate (Triple Major) | Member of the Golden Key International Honour Society | software developer | Platform Engineer
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 I have been coding since mid-2020 and underwent 2 internships with Sanlam Investments remotely and Polymorph Systems on-site. I am a BSc. Computer Science graduate from Nelson Mandela University, where I majored in Computer Science, Mathematics, and Applied Mathematics, earning 18 distinctions. My passion for technology drives me to explore and innovate in software development, data engineering, and cybersecurity.
